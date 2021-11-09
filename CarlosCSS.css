@@ -1,0 +1,89 @@
+body {
+  background-color: #36454f;
+}
+p{
+ color: #f5f5dc;
+ font-size: 26px;
+ font-weight: 700;
+ padding: 20px 10px;
+}
+.website_title{
+  font-size: 32px;
+  font-weight: 300;
+  text-transform: uppercase;
+  color:lawngreen;
+  text-align: center;
+  
+}
+.resume_button{
+  border: 1px; 
+  padding: 40px 0px;
+  position: relative;
+  text-align: center;
+  width: 100%;
+  
+}
+
+.resume_button a{
+  background:lawngreen;
+  border:1px solid lawngreen;
+  border-radius: 3px;
+  color: #f5f5dc;
+  display:inline-block;
+  margin: 10px;
+  padding: 14px;
+  text-decoration: none; 
+  
+}
+.heading_secondary h4{
+ font-size: 16px;
+ font-weight: 300;
+ text-transform: uppercase;
+ color:gold;
+ text-align:center;
+}
+.heading_secondary, iframe{
+ margin:auto;
+ display:block;
+}
+img{
+ position: relative;
+ height: 100px;
+ width: 100px;
+ align: left;
+}
+.videos video{
+ position: relative;
+ width: 500px;
+ height: 300px;
+ display:block;
+ margin:auto;
+}
+.contact h4{
+ position: relative;
+ color: green;
+ font-size: 30px;
+ font-weight: 700;
+ padding: 0px 10px;
+ text-align: center;
+}
+.contact hr{
+ position: relative;
+ height: 2px;
+ width: 75%;
+ margin: auto;
+ color:gray;
+}
+.contact img{
+ display:inline-block;
+ height: 65px;
+ width: 75px;
+ padding: 15px;
+ border-right: 2px solid gray;
+ margin-left:auto;
+ margin-right:auto;
+}
+.contact p{
+ font-size: 18px;
+ text-align: center;
+}
